@@ -219,8 +219,9 @@ Publish the website in the LocalHost.
 
 
 ## OUTPUT:
-![Ouput](dribble1.png)
-![Output](dribble2.png)
+<img width="1920" height="1080" alt="dribble1" src="https://github.com/user-attachments/assets/976c636c-67cf-478b-a031-9cffaea336a0" />
+<img width="1920" height="1080" alt="dribble2" src="https://github.com/user-attachments/assets/49550188-d0c4-47b9-bab3-47d85726c930" />
+
 
 
 ## RESULT:
